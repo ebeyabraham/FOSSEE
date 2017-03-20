@@ -99,6 +99,12 @@ int main( int argc, const char** argv )
 		
 		vector<Rect> cat;
 		cvtColor(img,gray,CV_BGR2GRAY);
+        /*
+        To detect Ellen DeGeneres from the image I have used the frontalcatface cascade classifier.
+        frontalcatface sometimes mistakes human faces as cats, this is mentioned in the comment section of the repository in Github
+        I have used this bug to differenciate Ellen from other faces as the classifier mistakes the facial features of Ellen to be that
+        of a cat.
+        */
 		
 		cat_cascade.detectMultiScale( gray, cat, 1.1, 1,0|CV_HAAR_SCALE_IMAGE,Size(80,80));
 		
