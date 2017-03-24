@@ -11,4 +11,9 @@ git clone https://ebey97@bitbucket.org/ebey97/ebeyabraham-imageprocessing-comput
 ### Dependencies
 * OpenCV 3.2.0
 
+### Install OpenCV
+```bash
+bash install-opencv.sh
+```
+
 ## EXHAUSTIVE README IS PROVIDED ALONG WITH EACH OF THE GIVEN TASKS.
