@@ -60,9 +60,9 @@ int main(int argc, char *argv[])
     {
     	Point center=k->pt;
      	int radius=k->size;
-     	line(result,center-Point(5,5),center+Point(5,5),Scalar(0,255,0),3);
-     	line(result,center-Point(5,-5),center+Point(5,-5),Scalar(0,255,0),3);
-     	circle(result, center , radius, Scalar(0,0,255),2);
+     	line(result,center-Point(5,5),center+Point(5,5),Scalar(0,0,255),3);
+     	line(result,center-Point(5,-5),center+Point(5,-5),Scalar(0,0,255),3);
+     	circle(result, center , radius, Scalar(0,255,0),2);
     }
     
     imshow("RESULT", result);
