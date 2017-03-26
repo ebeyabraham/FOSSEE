@@ -64,7 +64,7 @@ int main(int argc, char *argv[])
      	line(result,center-Point(5,-5),center+Point(5,-5),Scalar(0,0,255),3);
      	circle(result, center , radius, Scalar(0,255,0),2);
     }
-    
+    namedWindow("RESULT",CV_WINDOW_AUTOSIZE);
     imshow("RESULT", result);
     //imshow("Original", img);
     waitKey(0);
