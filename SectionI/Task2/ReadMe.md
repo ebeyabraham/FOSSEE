@@ -7,7 +7,7 @@
 ## Usage
 
 ### Download the Input Image
-[Input Image](https://bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox/downloads/jellyfish.jpg)
+![jellyfish](https://cloud.githubusercontent.com/assets/15849927/26694173/2ff37040-4724-11e7-8171-5386046d68bf.jpg)
 
 ### Clone Repository
 ```bash
@@ -24,8 +24,8 @@ mkdir build && cd build && cmake .. && make
 ```
 ## Input Image
 
-![Input Image](https://bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox/downloads/jellyfish.jpg)
+![jellyfish](https://cloud.githubusercontent.com/assets/15849927/26694173/2ff37040-4724-11e7-8171-5386046d68bf.jpg)
 
 ## Output Image
 
-![output](https://bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox/downloads/task2.jpg)
+![task2](https://cloud.githubusercontent.com/assets/15849927/26694175/3004417c-4724-11e7-8ab2-5c653b8ba7ad.jpg)
