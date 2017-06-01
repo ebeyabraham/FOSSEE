@@ -3,13 +3,13 @@
 ## Objectives
 * Detect all the faces in Image 1
 * Detect the eyes of Ellen DeGeneres
-* Get the RGB value at the location of the centroid of Ellen’s eyes
+* Get the RGB value at the location of the centroid of Ellenâ€™s eyes
 * Display the RGB value on the console
 
 ## Usage
 
 ### Download the Input Image
-[Input Image](https://bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox/downloads/oscarSelfie.jpg)
+![oscarselfie](https://cloud.githubusercontent.com/assets/15849927/26694174/2ffe3d86-4724-11e7-869c-5f831b60421d.jpg)
 
 ### Clone Repository
 ```bash
@@ -26,12 +26,8 @@ cmake .. && make
 ```
 ## Input Image
 
-![oscarSelfie](https://bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox/downloads/oscarSelfie.jpg)
+![oscarselfie](https://cloud.githubusercontent.com/assets/15849927/26694174/2ffe3d86-4724-11e7-869c-5f831b60421d.jpg)
 
 ## Output Image
 
-![output](https://bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox/downloads/face.jpg)
-
-## Console Output
-
-![console](https://bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox/downloads/outout)
+![face](https://cloud.githubusercontent.com/assets/15849927/26694172/2fedbc86-4724-11e7-9010-30d8109a7fae.jpg)
