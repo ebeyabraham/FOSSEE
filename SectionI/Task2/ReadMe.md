@@ -11,11 +11,11 @@
 
 ### Clone Repository
 ```bash
-git clone https://ebey97@bitbucket.org/ebey97/ebeyabraham-imageprocessing-computervisiontoolbox.git
+git clone https://github.com/Poirot1729/FOSSEE.git
 ```
 ### Change directory
 ```bash
-cd ebeyabraham-imageprocessing-computervisiontoolbox/SectionI/Task2
+cd FOSSEE/SectionI/Task2
 ```
 ### Build
 ```bash
